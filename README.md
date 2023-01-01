@@ -1,0 +1,2 @@
+# Prolog
+Tugas Prolog
