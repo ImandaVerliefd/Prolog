@@ -1,0 +1,10 @@
+% LOGIKA
+
+and(A,B):- A,B.
+
+or(A,_):- A, !.
+or(_,B):- B, !.
+
+xor(A,B):- A\=B.
+
+equal(A,B):- A==B.
